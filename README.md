@@ -1,2 +1,2 @@
 # PasswordGenJS
-A Password Generator in JavaScript
+A Password Generator in JavaScript.
